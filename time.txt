@@ -1,0 +1,1 @@
+The time complexity of Travelling salesman problem is O(n^2*2^n)

@@ -1,0 +1,8 @@
+The time complexity of Floyd's Algorithm is O(V^3), where n is the number of vertices.
+For the above program, the number of vertices is 4, so the time complexity is:
+O(4^3).
+
+
+The time complexity of NQueen's program is O(n!). It is not the very efficient algorithm because the time complexity increases rapidly for increasing values.
+If the number of Queen is 5 then the time complexity would be:
+O(5!)

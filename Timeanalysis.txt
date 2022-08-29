@@ -1,0 +1,4 @@
+Heapsort has a running time of O(n log n), which is linearithmic time,i.e. loglinear complexity.
+
+For the given program the number of inputs is 6, so the time for heap sort is:
+O(6log6) ~ O(4.6689075023)
